@@ -1,8 +1,11 @@
-Custom layers control for react-leaflet with typescript. Thanks to https://github.com/PaulLeCam and https://github.com/dylel.
+Custom layers control for react-leaflet with typescript.
 
 https://github.com/PaulLeCam/react-leaflet/issues/706
 
-https://codesandbox.io/s/13hld
+# Credits
+
+* https://github.com/PaulLeCam for react-leaflet
+* https://github.com/dylel for setting up an example in JavaScript: https://codesandbox.io/s/13hld
 
 # Getting Started with Create React App
 
