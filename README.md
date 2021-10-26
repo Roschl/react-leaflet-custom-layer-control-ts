@@ -7,6 +7,11 @@ https://github.com/PaulLeCam/react-leaflet/issues/706
 * https://github.com/PaulLeCam for react-leaflet
 * https://github.com/dylel for setting up an example in JavaScript: https://codesandbox.io/s/13hld
 
+## Example
+
+Custom layer control used in the INOWAS DSS (https://github.com/inowas/frontend-app) with SemanticUi instead of MaterialUi.
+![Custom layer control used in the INOWAS DSS](./example_1.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
